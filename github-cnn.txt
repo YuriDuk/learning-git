@@ -1,0 +1,4 @@
+Para voce conectar ao GitHub voce apenas precisa criar uma conta no git hub 
+criar um repositorio e usar seu link com o comando 
+
+-> git remote add origin <link>
