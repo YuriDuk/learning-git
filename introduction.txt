@@ -1,0 +1,4 @@
+Git e GitHub é locuragem
+eles permite voce acompanhar as mudanças do projeto tudo anotadinho e salvo,
+voce pode voltar para versão anteriores navegar entre ramos do projeto e mutcho mas 
+Git é local e GitHUb nos permite "ficar online" no bagulho hehe
